@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1> let start <span>getting it a little</span> more fancy </h1>
+        <img src="Img/div.2.jpg" alt="">
+
+        <div class="coloumns">
+            <div class="col col-1">
+                <h2>what is HTML</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus quaerat ad soluta, possimus
+                    doloribus accusamus unde voluptatibus ut facilis ipsa, maxime, minus autem asperiores eum nemo.
+                    Numquam ad, quia maxime laudantium earum in aperiam! Totam necessitatibus magnam sit animi non
+                    consequatur maxime corporis placeat, atque, iste natus facilis! Facilis, vero?
+                </p>
+            </div>
+
+
+            <div class="col col-2">
+                <h2>learn about CSS</h2>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste non assumenda cum labore unde facilis
+                    natus, alias excepturi quis sint quas sapiente nisi aliquid quod ipsum doloribus ducimus numquam
+                    porro atque dignissimos ad tempore! Rem, eaque voluptas. Exercitationem nobis eius consequatur
+                    repudiandae ratione accusantium, architecto, saepe error nam earum mollitia, neque corporis qui iste
+                    accusamus quasi autem vero explicabo odio ex quae? Nemo enim alias excepturi facilis, laborum
+                    eveniet reprehenderit.</p>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae porro fugit, laboriosam beatae
+                    eos laudantium aut aperiam iste veritatis natus. Nesciunt quibusdam, omnis numquam earum odio, nihil
+                    consequuntur, unde architecto repellendus culpa id nisi impedit?
+                </p>
+
+            </div>
+
+
+            <div class="col-bg col-1 ">
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Error libero nihil animi obcaecati
+                    similique alias numquam, ipsum soluta aspernatur fugit nobis architecto reprehenderit quaerat at
+                    eveniet exercitationem sint minus consectetur?
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit repudiandae dolorum ullam fuga
+                    laboriosam voluptatibus quisquam, blanditiis quaerat, optio, similique voluptatem. Sapiente fugiat
+                    eum suscipit.
+                </p>
+            </div>
+        </div>
+
+
+        <div class="coloumns">
+            <div class="col col-3">
+                <h2> Experience more </h2>
+                <p>
+                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aliquid deserunt vero consequuntur magni,
+                    labore corrupti totam, ullam quibusdam tempore eaque sunt officiis reiciendis qui repudiandae fugit
+                    architecto explicabo. Qui architecto vero soluta tempore, odit mollitia velit delectus sequi fuga
+                    magni?
+
+                </p>
+            </div>
+
+
+            <div class="col-bg col-1 ">
+                <p>
+                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusamus illum ullam quibusdam quod?
+                    Porro
+                    libero minus, deleniti dolorem mollitia officiis.
+                </p>
+            </div>
+        </div>
+
+
+
+    </div>
+</body>
+
+</html>
