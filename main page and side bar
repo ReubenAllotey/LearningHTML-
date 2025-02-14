@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <div class="container container-flex">
+            <div class="header-title">
+                <h1>social life</h1>
+                <p class="sub-title">A blog to explore
+
+                </p>
+            </div>
+
+            <nav>
+                <ul>
+                    <li><a href="Index.html" class="current-page">Home</a></li>
+                    <li><a href="about us.html">about us</a></li>
+                    <li><a href="contact.html">contact</a></li>
+                    <li><a href="portofolio.html">portfolio</a></li>
+
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <div class="container container-flex">
+        <main>
+            <article class="article-feartured">
+                <h2 class="article-title">SOCIAL-LIFE ABOUT</h2>
+                <img src="Img/image1.jpg" alt="" class="article-img">
+                <p class="article-info">
+                    February 4, 2025 | 4 comments
+                </p>
+                <p class="article-body">
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi veniam architecto beatae placeat,
+                    reiciendis, <span class="article-span">exercitationem aperiam dicta minus nihil voluptate
+                        voluptatibus</span>! Accusamus, numquam
+                    blanditiis adipisci alias mollitia molestias recusandae porro?
+                </p>
+                <a href="#" class="article-continue-reading">learn more</a>
+            </article>
+
+
+
+
+
+            <article class="article-recent">
+                <div class="recent-main">
+                    <h2 class="article-title">HOW TO GET STARTED</h2>
+                    <p class="article-body">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Error at, quam facilis asperiores
+                        voluptates omnis ex quas magni eaque corrupti molestiae perspiciatis veniam iure nostrum?
+                    </p>
+                    <a href="" class="article-continue-reading">continue reading </a>
+                </div>
+                <div class="recent-secondary">
+                    <img src="Img/image 5.jpg" alt="" class="recent-article-img">
+                </div>
+            </article>
+
+
+
+
+            <article class="article-recent">
+
+                <div class="recent-main">
+                    <h2 class="article-title">KEEP IT MOVING</h2>
+                    <p class="article-body">
+                        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Soluta voluptates nulla ex ipsam!
+                        Aliquid laboriosam expedita ullam incidunt cupiditate labore sunt numquam, asperiores officia
+                        tenetur.
+                    </p>
+                    <a href="" class="article-continue-reading">continue reading </a>
+                </div>
+                <div class="recent-secondary">
+                    <img src="Img/image 6.jpg" alt="" class="recent-article-img">
+                </div>
+
+            </article>
+
+
+
+            <article class="article-recent">
+                <div class="recent-main">
+                    <h2 class="article-title">THERE IS MORE TO COME</h2>
+                    <p class="article-body">
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum laudantium velit architecto,
+                        atque dolor illo minima cumque aut modi natus. Sapiente cupiditate quibusdam nemo ipsa!
+                    </p>
+                    <a href="" class="article-continue-reading">continue reading</a>
+                </div>
+                <div class="recent-secondary">
+                    <img src="Img/image1.jpg" alt="" class="recent-article-img">
+                </div>
+            </article>
+
+        </main>
+
+
+
+
+
+
+
+
+
+
+        <aside class="side-bar">
+            <div class="side-barwidget">
+                <h2 class="widget-title">RELATED CONTENT HERE </h2>
+                <img src="Img/image 6.jpg" alt="" class="widget-img">
+                <p class="widget-body">Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus quisquam
+                    accusamus veritatis necessitatibus iusto, ea voluptatum quibusdam ad laborum provident.</p>
+
+            </div>
+
+            <div class="side-barwidget">
+
+                <div class="widget-recentpost">
+                    <h3 class="widget-post tile">UNDERSTAND THINGS HERE </h3>
+                    <img src="Img/image 5.jpg" alt="" class="widget-post-img">
+                    <p class="widget-p">
+                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Deserunt minus qui hic quod quas
+                        consequuntur quia labore accusantium neque dicta.
+                    </p>
+
+                </div>
+
+
+                <div class="widget-recentpost">
+                    <h3 class="widget-post tile">SOCIAL STEPS </h3>
+                    <img src="Img/image 2.jpg" alt="" class="widget-post-img">
+                    <p class="widget-p">
+                        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quae molestiae, voluptatibus saepe
+                        rerum
+                        veniam velit eligendi corporis sit ab delectus.
+                    </p>
+
+                </div>
+
+
+                <div class="widget-recentpost">
+                    <h3 class="widget-post tile">LIFE MATTERS</h3>
+                    <img src="Img/image 4.jpg" alt="" class="widget-post-img">
+                    <p class="widget-p">
+                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repudiandae, exercitationem.
+
+                    </p>
+
+                </div>
+
+
+
+            </div>
+
+
+
+
+
+        </aside>
+    </div>
+
+
+    <footer>
+        <p> <strong>living a simple life</strong></p>
+        <p>copyright @2019</p>
+    </footer>
+
+
+</body>
+
+</html>
